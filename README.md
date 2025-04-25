@@ -12,6 +12,8 @@ MENTOR: VAISHALI
 
 
 🏠 House Price Prediction using Multiple Linear Regression | Internship Project
+
+
 📌 Project Overview
 
 This project was developed as part of my internship to demonstrate skills in predictive analytics using machine learning. The goal was to build a regression model that can predict house prices based on several input features that commonly affect real estate value.
@@ -31,7 +33,11 @@ The model was trained using a synthetically generated dataset that simulates rea
   Garage Availability
 
 The project includes full model training, evaluation, and visual insights.
+
+
 🧰 Tools & Technologies Used
+
+
 
   Google Colab / Jupyter Notebook – Development environment
 
@@ -45,14 +51,20 @@ The project includes full model training, evaluation, and visual insights.
 
   Seaborn & Matplotlib – Data visualization
 
+
 🛠️ Key Tasks
 ✅ Dataset Generation
+
 
   Simulated realistic housing data using NumPy
 
   Included features like House Age, Bedrooms, Bathrooms, Square Footage, Lot Size, Floors, and Garage
 
+  
+
 ✅ Data Exploration & Visualization
+
+
 
   head(), describe() for initial data inspection
 
@@ -64,7 +76,10 @@ The project includes full model training, evaluation, and visual insights.
 
    Bar plot showing average price by number of bedrooms
 
+   
+
 ✅ Model Building
+
 
   Multiple Linear Regression using sklearn
 
@@ -75,6 +90,9 @@ The project includes full model training, evaluation, and visual insights.
 
 ✅ Model Evaluation
 
+
+
+
   R² Score (explained variance)
 
   Mean Absolute Error (MAE)
@@ -83,23 +101,40 @@ The project includes full model training, evaluation, and visual insights.
 
   Root Mean Squared Error (RMSE)
 
+
+  
+
 ✅ User Interaction & Prediction
+
+
+
 
   User prompted to enter housing features
 
   Model returns predicted price based on user input
 
+
+  
+
 📊 Visualizations Included
 
-    🔥 Correlation heatmap of all features
 
-    📈 Pairplot for multivariate relationships
 
-    📉 Histogram of house price distribution
+    
+   🔥 Correlation heatmap of all features
 
-    🏠 Bar plot of average price vs. number of bedrooms
+   📈 Pairplot for multivariate relationships
+
+   📉 Histogram of house price distribution
+
+   🏠 Bar plot of average price vs. number of bedrooms
+
+
+   
 
 📈 Real-World Applications
+
+
 
 This type of regression-based housing price prediction is used in:
 
@@ -111,7 +146,10 @@ This type of regression-based housing price prediction is used in:
 
   AI-Powered Investment Tools – Predicting real estate market values
 
+
+
 ✅ Final Deliverable
+
 
 A fully-commented, professional Google Colab/Jupyter Notebook containing:
 
